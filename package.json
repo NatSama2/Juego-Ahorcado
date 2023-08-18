@@ -1,0 +1,24 @@
+{
+  "name": "juego-ahorcado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "serve ./src",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatSama2/Juego-Ahorcado.git"
+  },
+  "author": "NatSama2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatSama2/Juego-Ahorcado/issues"
+  },
+  "homepage": "https://github.com/NatSama2/Juego-Ahorcado#readme",
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "serve": "^14.2.0"
+  }
+}
