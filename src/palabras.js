@@ -28,5 +28,6 @@ const words = [
   "tigre",
   "jirafa",
   "serpiente",
-  "delfín"
+  "delfín",
+  "cocodrilo"
 ];
